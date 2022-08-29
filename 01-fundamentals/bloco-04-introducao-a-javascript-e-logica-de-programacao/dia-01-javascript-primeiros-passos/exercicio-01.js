@@ -1,4 +1,4 @@
-// Exercício 1 do dia 1 do bloco 
+// Exercício 1 do dia 1 do bloco 4.
 // 1. Crie uma constante chamada myName e atribua a ela o seu nome.
 const myName = "Thomas";
 
